@@ -1,0 +1,20 @@
+input {
+    margin: .10px;
+    }
+button{
+    margin-right: 5px;
+    }
+.email {
+    background-color: blanchedalmond;
+    margin-bottom: 50px;
+    border-radius: 50px;
+}
+#password {
+    margin-bottom: 50px;
+}
+div{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    background-color: brown;
+}
